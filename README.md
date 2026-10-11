@@ -25,11 +25,18 @@ Software + Tools
 
 ## Starbie Schematic Design
 
-![Starbie PCB Design](images/PCB-schematic.png)
+![Starbie Schematic](images/PCB-schematic.png)
 
 ## Starbie PCB Design + routing
+![Starbie PCB Design](images/PCB-boundary.png)
+![Starbie PCB Design](images/PCB-routing.png)
+![Starbie PCB Design](images/PCB-routingwdesign.png)
+![Starbie PCB Design](images/PCB-board.png)
 
 ## Custom Pet Sprites
+![Arduino sprites](images/Happy-starsprite.png)
+![Arduino sprites](images/Blinking-starsprite.png)
+![Arduino sprites](images/Sad-starsprite.png)
 
 
 Lessons Learned
