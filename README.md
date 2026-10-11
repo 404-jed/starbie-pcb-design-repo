@@ -25,7 +25,7 @@ Software + Tools
 
 ## Starbie Schematic Design
 
-![Starbie PCB Design](images/Screenshot 2026-10-11 144714.png)
+![Starbie PCB Design](images/PCB-schematic.png)
 
 ## Starbie PCB Design + routing
 
