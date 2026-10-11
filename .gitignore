@@ -1,0 +1,31 @@
+# KiCad backup files
+.history/
+*.bak
+*-backups/
+_autosave-*
+
+# Temporary and lock files
+*.lck
+*.tmp
+
+# Simulation output
+*.raw
+*.tran
+*.ac
+*.dc
+*.op
+*.noise
+
+# Generated manufacturing files
+# Uncomment these if you don't want to version them
+# gerber/
+# fabrication/
+# *.gbr
+# *.drl
+# *.pos
+# *.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
