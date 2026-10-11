@@ -21,13 +21,15 @@ Software + Tools
 - C++
 - Canva: Artwork
 
-Images:
 
-Starbie Schematic Design
 
-Starbie PCB Design + routing
+## Starbie Schematic Design
 
-Custom Pet Sprites
+![Starbie PCB Design](images/images/Screenshot 2026-10-11 144714.png)
+
+## Starbie PCB Design + routing
+
+## Custom Pet Sprites
 
 
 Lessons Learned
