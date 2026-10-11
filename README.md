@@ -21,6 +21,15 @@ Software + Tools
 - C++
 - Canva: Artwork
 
+Images:
+
+Starbie Schematic Design
+
+Starbie PCB Design + routing
+
+Custom Pet Sprites
+
+
 Lessons Learned
 
 From doing this project, I've gained real-life experience with going through the process of designing a PCB. I learned how to set up KiCad, create footprints and symbols, familiarized myself with C++, and did a lot more. I've also discovered newfound patience, especially when learning a new tool and having to troubleshoot whenever a problem occurs. Although I'm submitting this project soon, I believe that this is still an ongoing project. Later in the future, I plan to improve its firmware and overall design.
